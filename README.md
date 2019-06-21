@@ -7,3 +7,5 @@ A four wheeled robot wants to move from A to B and is allowed to move forward le
 orientation can be modeled as 0 = North, 1 = West, 2 = South, 3 = East
 
 Below is a example of discretized map with black as obstacles and grey as one solution from A to B.
+
+![map](/map.png)
